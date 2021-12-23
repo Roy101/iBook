@@ -1,6 +1,6 @@
 <h2> About iBook </h2>
 <p><img src="https://github.com/roy101/iBook/blob/main/public/frontend/images/fuel%20icon.png" width="50px" height="50px">
-iBook is an online book delivery system. Initiated as a platform to deliver fuel on demand - anywhere, anytime!</p>
+iBook is an online book delivery system. Initiated as a platform to deliver books on demand - anywhere, anytime!</p>
 <h4> ©2021 iBook by Palash Ranjan Roy </h4>
 <p><b>‣ The MVC Structure Shortcuts: </b><a href="https://github.com/roy101/iBook/tree/main/app">Model(s) | </a><a href="https://github.com/roy101/iBook/tree/main/resources/views"> View(s) | </a><a href="https://github.com/roy101/iBook/tree/main/app/Http/Controllers">Controller(s)</a></p>
 
